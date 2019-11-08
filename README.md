@@ -5,6 +5,8 @@ The Workout.ai is a Personal Workout AI Assistant based on employing AI and comp
 The model architecture is based on OpenPose developed by CMU Perceptual Computing Lab. OpenPose represents a real-time multi-person system to jointly detect human body, hand, facial, and foot key points (in total 135 keypoints) on single images.
 The assistant will help the user in performing the exercises with maximum efficiency with other added features like Reps, time, calories, etc.
 
+![Image](https://i.ibb.co/CmRxvvB/0.jpg)
+
 ## Installation
 ** Windows Version ** please check out [doc/win_install.md](doc/win_install.md)
 
